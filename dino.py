@@ -128,3 +128,7 @@ def main():
 
 if __name__=='__main__':    
     main()
+
+# OK, it works.  Good work getting most of the white hidden. The patches can
+# be adjusted a little better so that the animation will be smoother.
+# Score: 95
